@@ -77,19 +77,6 @@ header {
   }
 }
 
-#bemeo {
-  display: flex;
-  justify-content: center; /* Căn giữa theo chiều ngang */
-  align-items: center; /* Căn giữa theo chiều dọc */
-}
-
-#bemeo img {
-  margin-top: auto;
-  max-width: 80%; /* Giới hạn kích thước ảnh để không quá lớn */
-  height: auto; /* Đảm bảo tỷ lệ ảnh không bị méo */
-  border-radius: 10px; /* Bo góc ảnh cho mềm mại */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Đổ bóng giúp ảnh nổi bật */
-}
 
 @keyframes sparkle {
   0% {
